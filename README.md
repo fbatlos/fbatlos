@@ -4,8 +4,8 @@ I'm a junior full-stack developer that really enjoys backend over frontend, but 
 
 Here is some personal info:
 
-- 🎂 **Age:** 20
-- 🎓 **Currently:** Student at IES Rafael Alberti
+- 🎂 **Age:** 21
+- 🎓 **Currently:** Student at Universidad de Huelva (UHU)
 - 🎯 **Aspiring:** Data Engineer  / Backend Engineer 
 - 🖥️ I like to create well built, structured and functional applications
 - 🎮 **Interests:** Gaming and Backend developing
